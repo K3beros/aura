@@ -1,55 +1,73 @@
 [
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Olamide Kehinde",
+        "designation":"Front End Developer / GDG-Ikorodu Organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
+        "profileImage":"ola.jpg",
+        "website":""
+    },
+    {
+        "name":"Davis Omokaro",
+        "designation":"Software Engineer / GDG-Ikorodu Co-organizer",
+        "twitter":"https://twitter.com/Dave_scr1pt",
+        "linkedin":"https://www.linkedin.com/in/davis-omokaro-5b7312120",
+        "github":"https://github.com/K3beros",
+        "profileImage":"davis.jpg",
+        "website":""
+    },
+    {
+        "name":"Judith Oiku",
+        "designation":"Software Engineer / GDG-Ikorodu Co-organizer / WTM Ambassador IKorodu",
+        "twitter":"https://twitter.com/ojosaro",
+        "linkedin":"https://www.linkedin.com/in/oiku-judith-o-ba5307159",
+        "github":"https://github.com/ojudith",
+        "profileImage":"judith.jpg",
+        "website":""
+    },
+    {
+        "name":"Benjamin Ajewole",
+        "designation":"Software Engineer / GDG-Ikorodu Event Organizer",
+        "twitter":"https://twitter.com/Rexben001",
+        "linkedin":"https://www.linkedin.com/in/rexben",
+        "github":"https://github.com/Rexben001",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Samuel Abada",
+        "designation":"Software Developer / GDG-Ikorodu Event Organizer",
+        "twitter":"https://twitter.com/mastersam_",
+        "linkedin":"https://www.linkedin.com/in/abada-samuel",
+        "github":"https://github.com/mastersam07",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Luqman",
+        "designation":"Software Developer / GDG-Ikorodu Event Organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Ejiro",
+        "designation":"AI/ML / GDG-Ikorodu Event Organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "name":"Dotun",
+        "designation":"UX Designer / GDG-Ikorodu Event Organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
         "profileImage":"",
         "website":""
     }

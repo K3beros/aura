@@ -66,15 +66,15 @@ export default {
     mounted(){
         
     },
-    methods:{
-        getImgUrl(pic) {
-            if(pic.length>0){
-                return require('@/assets/img/team/'+pic)
-            }else{
-                return require('@/assets/img/team/avatar.png')
-            }
-        },
-    },
+    // methods:{
+    //     getImgUrl(pic) {
+    //         if(pic.length>0){
+    //             return require('@/assets/img/team/'+pic)
+    //         }else{
+    //             return require('@/assets/img/team/avatar.png')
+    //         }
+    //     },
+    // },
     filters:{
         summery: (val,num)=>{
             return val.substring(0,num)+".."

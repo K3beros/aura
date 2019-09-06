@@ -1,45 +1,45 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Benjamin Ajewole",
+        "designation":"Software Engineer / GDG-Ikorodu Event Organizer",
+        "twitter":"https://twitter.com/Rexben001",
+        "linkedin":"https://www.linkedin.com/in/rexben",
+        "github":"https://github.com/Rexben001",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Samuel Abada",
+        "designation":"Software Developer / GDG-Ikorodu Event Organizer",
+        "twitter":"https://twitter.com/mastersam_",
+        "linkedin":"https://www.linkedin.com/in/abada-samuel",
+        "github":"https://github.com/mastersam07",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Luqman",
+        "designation":"Front End Developer / GDG-Ikorodu Event Organizer",
         "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
+        "linkedin":"https://www.linkedin.com/in/",
         "github":"https://github.com/",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Management",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Ejiro",
+        "designation":"Front End Developer / GDG-Ikorodu Event Organizer",
         "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
+        "linkedin":"https://www.linkedin.com/in/",
         "github":"https://github.com/",
         "profileImage":"",
-        "website":"https://github.com"
+        "website":""
     },
     {
-        "name":"Name",
-        "designation":"Development",
+        "name":"Dotun",
+        "designation":"Front End Developer / GDG-Ikorodu Event Organizer",
         "twitter":"https://twitter.com/",
-        "linkedin":"",
+        "linkedin":"https://www.linkedin.com/in/",
         "github":"https://github.com/",
         "profileImage":"",
         "website":""
