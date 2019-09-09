@@ -13,5 +13,5 @@ script:
   - npm run build
 
 after_success:  
-  - firebase deploy --token $FKEY
+  - firebase deploy --token "1/B-la_ujEUpsNX_EZEmotiqqz_ANoPz8merlayyE-tkPMOvRX-eV1DHuhxsPsDfJO"
 

@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": "dist",
+    "rewrites": [ {
+      "source": "**",
+      "destination": "/imdex.html"
+    }],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
