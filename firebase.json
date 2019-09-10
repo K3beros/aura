@@ -3,7 +3,7 @@
     "public": "dist",
     "rewrites": [ {
       "source": "**",
-      "destination": "/imdex.html"
+      "destination": "/index.html"
     }],
     "ignore": [
       "firebase.json",
