@@ -221,6 +221,8 @@ export default {
           this.showLoader = false;
           this.showData = true;
           this.eventsData = res;
+          // eslint-disable-next-line no-console
+          console.log(res)
         } else {
           this.showLoader = false;
           this.notFoundUpcomingEventFlag = true;

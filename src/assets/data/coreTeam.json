@@ -19,11 +19,20 @@
     },
     {
         "name":"Judith Oiku",
-        "designation":"Software Engineer / GDG-Ikorodu Co-organizer / WTM Ambassador IKorodu",
+        "designation":"Software Engineer / GDG-Ikorodu Co-organizer / WTM Ambassador Ikorodu",
         "twitter":"https://twitter.com/ojosaro",
         "linkedin":"https://www.linkedin.com/in/oiku-judith-o-ba5307159",
         "github":"https://github.com/ojudith",
         "profileImage":"judith.jpg",
+        "website":""
+    },
+    {
+        "name":"Ajadi Abiola",
+        "designation":"Developer, Product Manager/ GDG-Ikorodu Co-organizer / WTM Ambassador Ikorodu",
+        "twitter":"https://twitter.com/ajadiabeeola",
+        "linkedin":"",
+        "github":"https://github.com/ajadi-abiola",
+        "profileImage":"abiola.jpg",
         "website":""
     },
     {
